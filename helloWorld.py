@@ -1,2 +1,1 @@
-print("Goodbye, World!"
-tata bye bye khatam
+print("Goodbye, World!")
